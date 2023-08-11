@@ -1,0 +1,17 @@
+﻿namespace Bank.Business.Exception
+{
+    internal class ConflictException : BankException
+    {
+        public ConflictException()
+        {
+        }
+
+        public ConflictException(string? message) : base(message)
+        {
+        }
+
+        public ConflictException(string? message, System.Exception? innerException) : base(message, innerException)
+        {
+        }
+    }
+}

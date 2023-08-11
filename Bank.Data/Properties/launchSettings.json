@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "OCP.Data": {
+      "commandName": "Project"
+    }
+  }
+}
