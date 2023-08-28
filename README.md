@@ -16,11 +16,12 @@ A aplicação consiste em criar algumas funcionalidades (CRUD) existentes em um 
 ![Modelo Conceitual](https://github.com/LeandroAugusto89/LamBank/assets/102551622/eb160449-3e2a-4a51-954f-f005065d6891)
 
 # Tecnologias utilizadas
-## Back end
 - C#
 - Entity Framework
 - AspNet Core
 - Sql Server
+- Modelagem de Banco de Dados
+- Git
 
 # Autor
 Leandro Augusto Teixeira Leite
